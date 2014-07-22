@@ -7,7 +7,8 @@ Reference project structure for Universal iOS app
 Project Structure
 -----------------
 
-<ProjectName>.xcodeproj
+```
+<ProjectName>.xcodeproj 
 /<ProjectName>
   /Shared
     /Application      # App delegate and related files
@@ -28,7 +29,7 @@ Project Structure
   /Docs
   /Tests
   /Scripts            # All project-related scripts, typically executed as rake tasks using a Rakefile in the project root directory.
-
+```
 
 References
 ----------
